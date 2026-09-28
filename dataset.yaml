@@ -1,0 +1,11 @@
+path: /Users/malikaeryomina/SEI_AI_ultrasound/dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: abdomen
+  1: stomach
+  2: umbilical_vein
+  3: rib
+  4: spine

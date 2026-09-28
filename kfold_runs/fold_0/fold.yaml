@@ -1,0 +1,10 @@
+path: /Users/malikaeryomina/SEI_AI_ultrasound/kfold_runs/fold_0
+train: /Users/malikaeryomina/SEI_AI_ultrasound/kfold_runs/fold_0/train.txt
+val: /Users/malikaeryomina/SEI_AI_ultrasound/kfold_runs/fold_0/val.txt
+
+names:
+  0: abdomen
+  1: stomach
+  2: umbilical_vein
+  3: rib
+  4: spine
